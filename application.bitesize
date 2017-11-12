@@ -1,4 +1,4 @@
-project: sample
+project: Kasunu-test
 applications:
   - name: spring-app
     runtime: ubuntu-jdk8:1.0
