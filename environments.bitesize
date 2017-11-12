@@ -1,7 +1,7 @@
 project: kasunu
 environments:
   - name: Development
-    namespace: kasunu-ns
+    namespace: kasunu-dev
     deployment:
       method: rolling-upgrade
     services:
