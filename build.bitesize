@@ -1,4 +1,4 @@
-project: sample
+project: Kasunu-test
 components:
   - name: spring-app
     os: linux
