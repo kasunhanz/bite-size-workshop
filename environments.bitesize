@@ -1,4 +1,4 @@
-project: Kasunu
+project: kasunu
 environments:
   - name: Development
     namespace: kasunu-ns
